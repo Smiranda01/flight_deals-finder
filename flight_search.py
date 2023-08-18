@@ -1,6 +1,4 @@
 import requests
-from dotenv import load_dotenv
-import os
 from flight_data import FlightData
 from dotenv import load_dotenv
 import os
